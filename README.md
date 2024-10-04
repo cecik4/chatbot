@@ -5,13 +5,7 @@ Language Learning Chatbot (Bachelor's Thesis Project)
 
 1. Clone the repository
 
-   ```bash
-   git clone https://github.com/yourusername/your-repository.git
-   cd your-repository
-   ```
-
 2. Insert your OpenAI API Key
-
 
 3. Install Requirements (including Streamlit)
 
