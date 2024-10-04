@@ -1,5 +1,5 @@
 # Language Learning Chatbot
-Language Learning Chatbot (Bachelor's Thesis Project)
+Bachelor's Thesis Project at Technical University of Berlin
 
 ## Installation
 
