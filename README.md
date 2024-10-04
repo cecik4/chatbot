@@ -1,4 +1,4 @@
-# chatbot
+# Language Learning Chatbot
 Language Learning Chatbot (Bachelor's Thesis Project)
 
 ## Installation
