@@ -5,9 +5,7 @@ Language Learning Chatbot (Bachelor's Thesis Project)
 
 1. Clone the repository
 
-2. Insert your OpenAI API Key
-
-3. Install Requirements (including Streamlit)
+2. Install Requirements (including Streamlit)
 
    ```bash
    pip install -r requirements.txt
@@ -15,8 +13,9 @@ Language Learning Chatbot (Bachelor's Thesis Project)
 
 ## Running the Application
 
+1. Insert your OpenAI API Key
 
-To run the Streamlit application in your default web browser:
+2. Run the Streamlit application in your default web browser:
 
 ```bash
 streamlit run app.py
